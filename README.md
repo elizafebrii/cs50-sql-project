@@ -2,9 +2,6 @@
 
 By Eliza Febriana
 
-**Video overview**: https://youtu.be/3Ced-k9gDag?si=2neIrPQU6Ii-u1AP
----
-
 ## Scope
 
 This database is a personalized media library manager inspired by Spotify, Goodreads, and Letterboxd, created for CS50 SQL. It allows users to organize their favorite music, books, and movies, and create custom lists to group them.
